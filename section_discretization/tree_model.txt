@@ -1,0 +1,22 @@
+|--- feature_0 <= 15.50
+|   |--- feature_0 <= 11.75
+|   |   |--- feature_0 <= 8.50
+|   |   |   |--- class: 1
+|   |   |--- feature_0 >  8.50
+|   |   |   |--- class: 0
+|   |--- feature_0 >  11.75
+|   |   |--- feature_0 <= 13.50
+|   |   |   |--- class: 1
+|   |   |--- feature_0 >  13.50
+|   |   |   |--- class: 0
+|--- feature_0 >  15.50
+|   |--- feature_0 <= 21.50
+|   |   |--- feature_0 <= 20.50
+|   |   |   |--- class: 0
+|   |   |--- feature_0 >  20.50
+|   |   |   |--- class: 0
+|   |--- feature_0 >  21.50
+|   |   |--- feature_0 <= 64.50
+|   |   |   |--- class: 0
+|   |   |--- feature_0 >  64.50
+|   |   |   |--- class: 0
