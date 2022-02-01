@@ -68,7 +68,7 @@ Data Analysis:
   - Box-Cox
   - Yeo-Johnson transformations.
 
-- [x]Variable discretization: 
+- [x] Variable discretization: 
   - equal width discretization
   - equal-frequency discretization
   - k-means discretization
@@ -85,9 +85,9 @@ Data Analysis:
   - robust scaling
   - norm scaling
 
-- [x]Engineering of datetime variables: 
+- [x] Engineering of datetime variables: 
   - extracting features from day, month and year parts, and capturing elapsed time including in different time zones.
 
 - [x] Engineering of mixed numerical and categorical variables
 
-- [x]Compared code implementation with different available open source Python packages, like Scikit-learn, and Category encoders.
+- [x] Compared code implementation with different available open source Python packages, like Scikit-learn, and Category encoders.
